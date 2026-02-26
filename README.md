@@ -1,4 +1,4 @@
-# Hi 👋 I'm Srikanth
+# Hi 👋 I'm Srikanth Yendluru  
 
 🎓 B.Tech CSE Student | 💻 Android & ML Learner | 🚀 Aspiring Software Engineer  
 
@@ -7,6 +7,7 @@
 ## 🔥 About Me  
 - 📚 Working on: DSA, Android Development, Firebase  
 - 🤖 Learning: Machine Learning (Regression, MSE, RMSE, R²)  
+- 🧑‍🏫 Built: STEM Education Project (Hackathon)  
 - 👨‍💻 Coding in: C, C++, Java, Python  
 - 🎯 Goal: Software Engineer / Android Developer  
 
@@ -32,9 +33,14 @@
 
 ---
 
+
 ## 📂 Projects  
 - ✅ GreenMile – Android App (Firebase)  
+- ✅ STEM Education Project – Hackathon  
 - ✅ DSA Programs in C/C++  
 - ✅ Machine Learning Basics (Python)  
 
 ---
+
+## 📫 Connect With Me  
+- LinkedIn:https://www.linkedin.com/in/srikanth-yendluri-41833a31a/
