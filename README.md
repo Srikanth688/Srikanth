@@ -1,4 +1,4 @@
-# Hi 👋 I'm Srikanth Yendluru  
+# Hi 👋 I'm Srikanth
 
 🎓 B.Tech CSE Student | 💻 Android & ML Learner | 🚀 Aspiring Software Engineer  
 
